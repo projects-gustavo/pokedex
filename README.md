@@ -1,4 +1,4 @@
-<h1 align="center">Pokedex 📼</h1>
+<h1 align="center">Pokédex 📼</h1>
    
 <h3 align="center">Click here ⤵️</h3>   
 <a href="https://projects-gustavo.github.io/pokedex/"><img src="https://cdn.discordapp.com/attachments/876799799255531523/1005544361653710951/pokedex.png"></a>
